@@ -29,10 +29,12 @@ Aqui estão alguns projetos que desenvolvi:
 
 🔹 **[Projeto 1 - Jogo do Número Secreto](https://github.com/FranciscoArrudaMacr/numero-secreto)**  
 📝 Descrição: Jogo interativo onde o usuário deve adivinhar um número aleatório gerado pelo sistema, recebendo dicas se o palpite é maior ou menor que o número secreto.
+
 🛠️ Tecnologias Utilizadas: HTML5, CSS3, JavaScript, ResponsiveVoice.js.
 
 🔹 **[Projeto 2 - Jogo para sortear um Amigo Secreto](https://github.com/FranciscoArrudaMacr/amigo-secreto )**  
 📝 Descrição: Aplicação que permite adicionar nomes de participantes e realizar o sorteio do amigo secreto automaticamente, garantindo que ninguém seja sorteado para si mesmo.
+
 🛠️ Tecnologias Utilizadas: HTML5, CSS3, JavaScript.
   
 
